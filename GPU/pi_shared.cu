@@ -13,7 +13,7 @@ History: Written by Tim Mattson, 11/99.
 #include "book.h"
 #include <stdio.h>
 
-const long num_steps = 10000000000;
+const long num_steps = 100000000;
 const int nbBlocks = 32;
 const int nbThreadPerBlock = 1024;
 
